@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+select {
+	width: 160px;
+}
+
+#wrapper_div {
+	border: 1px solid black;
+	height: 200px;
+	width: 700px;
+	margin: 0px auto;
+}
+
+#dropDownTable_div {
+	float: left;
+	border: 1px solid black;
+	margin: 17px 15px auto;
+	padding: 13px 10px 13px 6px;
+}
+
+#dropDown {
+	padding: 6px;
+}
+
+#resultTable_div {
+	float: left;
+	border: 1px solid black;
+	margin: 8px 15px auto;
+	padding: 13px 10px 13px 6px;
+}
